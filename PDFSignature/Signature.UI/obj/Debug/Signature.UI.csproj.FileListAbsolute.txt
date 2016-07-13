@@ -1,0 +1,13 @@
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\Signature.UI.exe.config
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\Signature.UI.exe
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\Signature.UI.pdb
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\obj\Debug\Signature.UI.csprojResolveAssemblyReference.cache
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\obj\Debug\Signature.UI.Form1.resources
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\obj\Debug\Signature.UI.Properties.Resources.resources
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\obj\Debug\Signature.UI.csproj.GenerateResource.Cache
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\obj\Debug\Signature.UI.exe
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\obj\Debug\Signature.UI.pdb
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\Signature.Business.dll
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\itextsharp.dll
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\Signature.Business.pdb
+D:\Programiranje\SignDocument\PDFSignature\Signature.UI\bin\Debug\itextsharp.xml

@@ -1,0 +1,7 @@
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\bin\Debug\Signature.Business.dll
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\bin\Debug\Signature.Business.pdb
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\bin\Debug\itextsharp.dll
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\bin\Debug\itextsharp.xml
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\obj\Debug\Signature.Business.csprojResolveAssemblyReference.cache
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\obj\Debug\Signature.Business.dll
+D:\Programiranje\SignDocument\PDFSignature\Signature.Business\obj\Debug\Signature.Business.pdb
