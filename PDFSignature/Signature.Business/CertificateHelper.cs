@@ -19,7 +19,8 @@ namespace Signature.Business
             {
                 X509Certificate2Enumerator en = sel.GetEnumerator();
                 en.MoveNext();
-                certSelected = en.Current;
+                if(en.Current.PrivateKey != null) 
+                    certSelected = en.Current;
             }
 
             x509Store.Close();

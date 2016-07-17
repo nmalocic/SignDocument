@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.btn_ChoosFile = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -44,6 +45,8 @@
             this.label6 = new System.Windows.Forms.Label();
             this.cbx_CryptoStandard = new System.Windows.Forms.ComboBox();
             this.btnCert = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // openFileDialog1
@@ -174,6 +177,10 @@
             this.btnCert.UseVisualStyleBackColor = true;
             this.btnCert.Click += new System.EventHandler(this.btnCert_Click);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -195,6 +202,7 @@
             this.Controls.Add(this.btn_ChoosFile);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -218,6 +226,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.ComboBox cbx_CryptoStandard;
         private System.Windows.Forms.Button btnCert;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
 
